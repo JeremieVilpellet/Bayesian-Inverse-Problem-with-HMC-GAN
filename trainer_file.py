@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  9 13:05:17 2024
-
-@author: paul-
-"""
-
 import torch
 import torch.optim as optim
 from tqdm import tqdm
