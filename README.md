@@ -1,3 +1,5 @@
+### Bayesian Inverse Problem with HMC-GAN in a physical context
+
 """ All result are based on the article on the repo """
 
 The goal of this project is to explore the theoretical foundations and practical applications of MCGAN (Multi-conditional Generative Adversarial Network) for Bayesian Inverse Problems in a physical context.
