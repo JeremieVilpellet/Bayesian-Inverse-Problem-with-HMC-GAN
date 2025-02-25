@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  9 16:40:41 2024
-
-@author: paul-
-"""
-
-#Datalader
 import torch
 import os
 import glob
