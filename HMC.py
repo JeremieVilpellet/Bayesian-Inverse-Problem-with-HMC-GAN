@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 11 14:42:38 2024
-
-@author: paul-
-"""
-
 import torch
 import hamiltorch
 import torch.optim as optim
