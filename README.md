@@ -2,7 +2,7 @@
 
 """ All result are based on the article on the repo """
 
-The goal of this project is to explore the theoretical foundations and practical applications of MCGAN (Multi-conditional Generative Adversarial Network) for Bayesian Inverse Problems in a physical context.
+The goal of this project is to explore theory and practical applications of MCGAN (Markov Chain Generative Adversarial Network) for Bayesian Inverse Problems in a physical context.
 
 Data generation for the physical system (here, the Darcy flow problem in a unit square) is based on the finite element method, which is used to approximate the state of the system governed by a partial differential equation (PDE).
 
